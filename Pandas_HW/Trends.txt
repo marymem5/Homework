@@ -1,0 +1,11 @@
+Two trends based on PyCity Schools:
+
+When looking at Top Schools for overall pass rate versus bottom schools, all top schools were Charter Schools and all poor performing were district schools.
+
+Looking at average scores per grade shows that each grade at a particular school had similar averages - there did not seem to be 
+any difference between the average scores depending on grade level.
+
+Highest level of spending per student actually had lower scores than the other three "bins" for spending.
+
+Different sized schools did not seem to have markedly different outcomes.
+
